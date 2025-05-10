@@ -1,45 +1,88 @@
 
-# CAMPEÓN GPT Agent Repository
+# 🧠 CAMPEÓN GPT Agent Repository
 
-**Created by Sahid J. Attaf | [Telegram Bot](https://t.me/AISAHID_BOT)**
-
-Welcome to the CAMPEÓN GPT Ecosystem — a powerful collection of AI Agents (GPTs) designed to automate, optimize, and elevate every part of your business.
-
-## 🔧 GPT Agents Included
-
-| Agent Name   | Purpose                                  | Description                                               |
-|--------------|------------------------------------------|-----------------------------------------------------------|
-| PISKA GPT    | Sales Assistant                          | Smart GPT that qualifies leads and delivers sales pitch   |
-| TRAPI GPT    | CRM & Follow-up                          | Helps follow up, update client status, and schedule flows |
-| KONOSÉ GPT   | Customer Support                         | 24/7 bot handling FAQs, issues, and escalation            |
-| TRENA GPT    | Internal Trainer                         | Trains your team on SOPs and tests their understanding    |
-| GROW GPT     | Campaign Generator                       | Writes content for posts, emails, and ads                 |
-| BISTA GPT    | Insight Analyst                          | Parses data and generates weekly performance insights     |
+**Created by Sahid J. Attaf** | Telegram: [@AISAHID_BOT](https://t.me/AISAHID_BOT)  
+**Website:** [sahidattaf.github.io/campeon-gpt](https://sahidattaf.github.io/campeon-gpt)
 
 ---
 
-## 🚀 Deploy Locally
+## 🌐 Ecosystem Description
 
-To preview this landing page:
-
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/campeon-gpt-repo.git
-
-# Open locally
-open index.html
-```
-
-Or host on [GitHub Pages](https://pages.github.com/).
+Welcome to **Campeón GPT**, a multilingual, AI-powered ecosystem of GPT agents designed to automate, train, and elevate business operations. This repository includes multiple purpose-built GPTs that cover core business functions — all downloadable and ready to deploy.
 
 ---
 
-## 📞 Contact
+## 🤖 GPTs Included
 
-Created by **Sahid J. Attaf**  
+| Agent       | Role               | Use Case Highlights                             |
+|-------------|--------------------|--------------------------------------------------|
+| **PISKA**   | Sales Assistant     | Lead qualification, smart pitches               |
+| **TRAPI**   | CRM Follow-up       | Status tracking, reminders, CRM updates         |
+| **KONOSÉ**  | Customer Support    | FAQs, escalation, 24/7 service                  |
+| **TRENA**   | Internal Trainer    | SOP training, quizzes, onboarding               |
+| **GROW**    | Campaign Generator  | Social media, email & ad content generation     |
+| **BISTA**   | Insight Analyst     | Weekly insights from business data              |
+
+---
+
+## 💾 Download Instructions
+
+Click below to download individual GPTs in `.json` format:
+
+- [PISKA-GPT.json](PISKA-GPT.json)
+- [TRAPI-GPT.json](TRAPI-GPT.json)
+- [KONOSE-GPT.json](KONOSE-GPT.json)
+- [TRENA-GPT.json](TRENA-GPT.json)
+- [GROW-GPT.json](GROW-GPT.json)
+- [BISTA-GPT.json](BISTA-GPT.json)
+
+📦 Or [Download All GPT Agents (ZIP)](campeon_gpt_agents.zip)
+
+---
+
+## 🔗 Live Website
+
+Visit the fully-deployed landing page:
+👉 **[https://sahidattaf.github.io/campeon-gpt](https://sahidattaf.github.io/campeon-gpt)**
+
+🌍 Includes language switcher, GPT download links, and chatbot.
+
+---
+
+## 📫 Contact
+
 - WhatsApp: +5999 5230683 / +5999 6601445  
 - Email: sahidattaf@gmail.com  
 - Telegram: [@AISAHID_BOT](https://t.me/AISAHID_BOT)
 
+> “AI that Sells, Supports, Automates & Trains — 24/7.”
+
+
 ---
-AI That Sells, Supports, Automates & Trains — 24/7
+
+## 🏷️ Latest Release
+
+[![GitHub release](https://img.shields.io/github/v/release/sahidattaf/campeon-gpt?style=for-the-badge)](https://github.com/sahidattaf/campeon-gpt/releases)
+
+---
+
+## 🔄 Webhook & Notifications (Next Step)
+
+We are preparing real-time notifications for:
+- Telegram bot alerts
+- Email alerts for downloads
+- GitHub activity and GPT setup requests
+
+Stay tuned — this system will scale across all client GPT deployments.
+
+---
+
+## 📢 Promo Visuals & Shareables
+
+Follow the launch at **@AISAHID_BOT** and share with:
+- `#CampeonGPT`
+- `#AIThatSells`
+- `#GPTBossEcosystem`
+
+> "Created in Curaçao. Designed for the World."
+
