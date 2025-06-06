@@ -1,19 +1,10 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>Contact Campeón GPT</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <style>
-    body { font-family: Arial, sans-serif; padding: 2rem; background: #f4f4f4; }
-    form { background: #fff; padding: 2rem; max-width: 500px; margin: auto; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
-    h2 { text-align: center; }
-    label { display: block; margin-top: 1rem; }
-    input, textarea, select { width: 100%; padding: 0.75rem; margin-top: 0.5rem; border-radius: 5px; border: 1px solid #ccc; }
-    button { margin-top: 1.5rem; padding: 1rem; width: 100%; background: #1e90ff; color: white; border: none; border-radius: 5px; font-size: 1rem; }
-    button:hover { background: #0077cc; }
-  </style>
+  <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
   <form action="https://formsubmit.co/sahidattaf@gmail.com" method="POST" onsubmit="notifyTelegram();">
@@ -47,20 +38,7 @@
     <button type="submit">📨 Send Request</button>
   </form>
 
-  <script>
-    function notifyTelegram() {
-      const data = {
-        chat_id: "YOUR_CHAT_ID",
-        text: "🚀 New Campeón GPT request submitted via site!",
-        parse_mode: "HTML"
-      };
-
-      fetch("https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(data)
-      });
-    }
-  </script>
+  <script src="js/config.js"></script>
+  <script src="js/contact.js"></script>
 </body>
 </html>
